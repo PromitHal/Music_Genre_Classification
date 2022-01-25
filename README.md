@@ -1,2 +1,2 @@
-# MyProjects
+# Music Genre Classification
 This repository contains some of the minor projects I have completed.
