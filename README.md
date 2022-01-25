@@ -4,6 +4,7 @@ Dataset: GTZAN dataset(https://www.kaggle.com/andradaolteanu/gtzan-dataset-music
 Description  of the dataset: 
     GTZAN dataset provides us with 10 different genres of songs with 100 samples each . Each of the audio sample is of length 30 seconds.
     The genres are:
+    
       1. Rock 
       
       2. Classical 
@@ -29,7 +30,8 @@ The steps involved in this project are :
 1.Splitting audio files: The audio files were splitted into 10 parts of 3 seconds ,thus creating 10,000 files.
 
 2. Feature Extraction : This involves extracting various acoustic features from audio files.The following features were extracted which involved windowing of the signals and subsequent  overlapping of frames to compute STFT(Short Time Fourier Transform):
-3. 
+
+
                                  (i)      Chroma features 
                                  
                                  (ii)     RMS value
