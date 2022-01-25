@@ -1,2 +1,2 @@
 # Music Genre Classification
-This repository contains some of the minor projects I have completed.
+Music Genre Classification via K Nearest Neighbors, Artificial Neural Networks , One dimensioncal Convolutional Neural Networks.
