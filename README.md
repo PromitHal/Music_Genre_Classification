@@ -63,7 +63,7 @@ The steps involved in this project are :
 5. Building Models:
    The following models were built :
    
-       1. Artifical Neural Networks (ANN)
+       1. Artifical Neural Networks (ANN)- Greedy Souped.
        
        2. Decision Tree Classifier
         
@@ -71,7 +71,11 @@ The steps involved in this project are :
         
        4. Random Forest Classifier
        
-       5. One Dimensional Convolutional Neural Networks 
+       5. One Dimensional Convolutional Neural Networks ( This was just experimental, suited mainly for temporal data. I applied on the frequencey features which is not a good idea!).
  
-                              
+
+
+
+![image](https://github.com/PromitHal/Music_Genre_Classification/assets/83832850/87cc9d78-c673-4d93-b633-b69e87d160ce)
+
                               
